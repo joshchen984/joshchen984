@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Text2Video](https://github.com/joshchen984/Text2Video)
 
-- 🌱 I’m currently learning **about GANS**
-
 - ⚡ Fun fact **I was born on Hurricane Katrina**
 
 
