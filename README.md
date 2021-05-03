@@ -4,7 +4,7 @@
 </p>
 <p>I'm a high school student that really likes web development and machine learning. I mainly code in JavaScript but I'm always learning something new.</h3>
 
-## My Skills
+## My Skills :crystal_ball:
 - JavaScript
 - TypeScript
 - HTML, CSS
