@@ -1,4 +1,15 @@
-<h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">I'm a high school student that really likes machine learning and software development</h3>
+<h3 align="center">Hi 👋, I'm Josh</h1>
+<p align="center">
+  <a href="https://joshchen984.github.io/">Website</a>
+</p>
+<p>I'm a high school student that really likes web development and machine learning. I mainly code in javascript but I'm always learning something new.</h3>
 
-- 🔭 I’m currently working on [MathPathSF.com](https://github.com/joshchen984/MathPathSF)
+## My Skills
+- Javascript
+- Typescript
+- HTML, CSS
+- SCSS
+- Node.js
+- ReactJS
+- Python
+- C++
