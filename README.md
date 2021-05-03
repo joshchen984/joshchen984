@@ -2,11 +2,11 @@
 <p align="center">
   <a href="https://joshchen984.github.io/">Website</a>
 </p>
-<p>I'm a high school student that really likes web development and machine learning. I mainly code in javascript but I'm always learning something new.</h3>
+<p>I'm a high school student that really likes web development and machine learning. I mainly code in JavaScript but I'm always learning something new.</h3>
 
 ## My Skills
-- Javascript
-- Typescript
+- JavaScript
+- TypeScript
 - HTML, CSS
 - SCSS
 - Node.js
