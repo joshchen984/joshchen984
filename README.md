@@ -15,3 +15,6 @@
 - Node.js
 - Python
 - C++
+
+## GitHub Stats :chart_with_upwards_trend:
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshchen984&count_private=true&theme=tokyonight)
