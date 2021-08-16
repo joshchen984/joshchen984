@@ -9,11 +9,12 @@
 - JavaScript
 - TypeScript
 - HTML, CSS
-- SCSS
+- Material-UI
 - ReactJS
 ### Backend :computer:
 - Node.js
 - Python
+- NestJS
 - C++
 
 ## GitHub Stats :chart_with_upwards_trend:
