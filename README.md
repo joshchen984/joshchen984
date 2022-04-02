@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://www.joshchen984.com/">Website</a>
 </p>
-<p>I'm a high school student that really likes web development and machine learning. I mainly code in JavaScript but I'm always learning something new.</h3>
+<p>I'm a high school student that really likes web development and machine learning. I mainly code in TypeScript but I'm always learning something new.</h3>
 
 ## My Skills :crystal_ball:
 ### Frontend :eyes:
