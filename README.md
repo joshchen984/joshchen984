@@ -12,10 +12,13 @@
 - Material-UI
 - ReactJS
 ### Backend :computer:
-- Node.js
 - Python
-- NestJS
 - C++
+- Java
+- JavaScript
+- TypeScript
+- Node.js
+- NestJS
 - R
 
 ## GitHub Stats :chart_with_upwards_trend:
