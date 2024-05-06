@@ -2,24 +2,7 @@
 <p align="center">
   <a href="https://www.joshchen984.com/">Website</a>
 </p>
-<p>I'm a high school student that really likes web development. I mainly code in TypeScript but I'm always learning something new.</h3>
-
-## My Skills :crystal_ball:
-### Frontend :eyes:
-- JavaScript
-- TypeScript
-- HTML, CSS
-- Material-UI
-- ReactJS
-### Backend :computer:
-- Python
-- C++
-- Java
-- JavaScript
-- TypeScript
-- Node.js
-- NestJS
-- R
+<p>I'm a student at the University of Pennsylvania studying Computer Science. Feel free to look at my projects and <a href="https://www.joshchen984.com/">website</a>!</h3>
 
 ## GitHub Stats :chart_with_upwards_trend:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshchen984&layout=compact&theme=tokyonight)
